@@ -6,6 +6,7 @@ export default function header(props){
         <h1>Image of the Day!</h1>
         <label>Search Date</label>
         <input type='date'/>
+        
     </div>
     )
 }
